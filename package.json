@@ -1,0 +1,16 @@
+{
+  "name": "comic-earthstar-reader",
+  "version": "0.0.1",
+  "description": "Read comic earthstar",
+  "main": "reader.js",
+  "scripts": {
+    "go": "node reader.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.escaperegexp": "^4.1.2",
+    "puppeteer": "^0.10.2"
+  }
+}
