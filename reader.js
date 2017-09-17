@@ -39,11 +39,11 @@ function getRandomArbitrary (min, max) {
           console.log(dimension)
           await page.setViewport(dimension)
           if (firstPageRe.test(req.response().url)) {
-            await intervalScreenshot(6000 * getRandomArbitrary(1, 1.1), filenameRe.exec(key))
+            await intervalScreenshot(6000, filenameRe.exec(key))
             ++counter
             console.log(`Current Page: ${counter}`)
           } else {
-            await intervalScreenshot(2000 * getRandomArbitrary(1, 1.1), filenameRe.exec(key))
+            await intervalScreenshot(600, filenameRe.exec(key))
             ++counter
             console.log(`Current Page: ${counter}`)
             if (counter === totalPages) {
@@ -60,7 +60,7 @@ function getRandomArbitrary (min, max) {
   async function intervalScreenshot (interval, filename) {
     try {
       // Click mocking
-      await page.waitFor(interval * getRandomArbitrary(1, 1.5))
+      await page.waitFor(interval)
       await page.screenshot({ path: `${filename}.png` })
       await page.mouse.click(100 + getRandomArbitrary(-10, 10), 500 + getRandomArbitrary(-10, 10))
     } catch (error) {
