@@ -3,7 +3,7 @@
 (async () => {
   const puppeteer = require('puppeteer')
   const escapeRegExp = require('lodash.escaperegexp')
-  const url = 'http://viewer.comic-earthstar.jp/viewer.html?cid=c32d9bf27a3da7ec8163957080c8628e&cty=1&lin=0'
+  const url = 'http://viewer.comic-earthstar.jp/viewer.html?cid=854d6fae5ee42911677c739ee1734486&cty=1&lin=0'
   const mobileUa = 'Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36'
   function getRandomArbitrary (min, max) {
     return Math.random() * (max - min) + min
@@ -52,9 +52,9 @@
       }
     })
     await page.goto(url, {
-      timeout: 10000
+      waitUntil: 'networkidle',
+      networkIdleTimeout: 10000
     })
-    await page.waitFor(7000)
     if (pageData) {
       while (readyPages.length < totalPages) {
         while (counter < readyPages.length) {
