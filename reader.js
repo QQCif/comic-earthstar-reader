@@ -16,7 +16,7 @@
     if (process.argv.length < 3) {
       throw new Error('Please enter proper url')
     }
-    const url = process.argv[2]
+    const url = `http://viewer.comic-earthstar.jp/viewer.html?cid=${process.argv[2]}&cty=1&lin=0`
     let pageData = null
     let totalPages = null
     let dimension = null
@@ -65,15 +65,17 @@
     await page.goto(url, {
       waitUntil: 'networkidle',
       networkIdleTimeout: 10000
+      // timeout: 10000
     })
     if (pageData) {
+      await page.waitFor(10000)
       while (counter < totalPages) {
         while (counter === readyPages.length) {
           console.log(`Loaded Pages: ${readyPages.length}`)
-          console.log('waiting 500ms')
-          await page.waitFor(500)
+          console.log('waiting 1000ms')
+          await page.waitFor(1000)
         }
-        await intervalScreenshot(500, counter, dimension)
+        await intervalScreenshot(1000, counter, dimension)
         console.log(`Done: ${counter}`)
         ++counter
         if (counter === totalPages) {
@@ -89,7 +91,7 @@
       // Click mocking
       await page.waitFor(interval * getRandomArbitrary(1, 1.1))
       await page.screenshot({ path: `output/${filename}.png` })
-      await page.touchscreen.tap(dimension.width * 0.1 + getRandomArbitrary(-10, 10), dimension.height * 0.9 + getRandomArbitrary(-10, 10))
+      await page.touchscreen.tap(dimension.width * 0.1 + getRandomArbitrary(-10, 10), dimension.height * 0.7 + getRandomArbitrary(-10, 10))
     } catch (error) {
       console.log(error)
     }
