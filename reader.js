@@ -1,6 +1,7 @@
 /* Only works with manga */
 const puppeteer = require('puppeteer')
 const escapeRegExp = require('lodash.escaperegexp')
+const { URL } = require('url')
 require('yargs') // eslint-disable-line
   .command('start', 'start grabbing', (yargs) => {
     yargs.option({
@@ -10,7 +11,7 @@ require('yargs') // eslint-disable-line
       }
     })
   }, (argv) => {
-    if (argv.url) main(argv.url)
+    if (argv.url) main(new URL(argv.url))
   })
   .demandOption(['url'], 'Please provide the URL to work with')
   .argv
@@ -26,14 +27,12 @@ async function main (url) {
   const page = await browser.newPage()
 
   try {
-    if (process.argv.length < 3) {
-      throw new Error('Please enter proper url')
-    }
     let pageData = null
     let totalPages = null
     let dimension = null
     let counter = 0
     let readyPages = []
+    let invisiblePage = false
     await page.emulate({
       viewport: {
         width: 2160,
@@ -48,16 +47,20 @@ async function main (url) {
       console.log(req.url)
       try {
         if (req.response().url.endsWith('configuration_pack.json')) {
-          pageData = await req.response().json()
-          totalPages = pageData.configuration.contents.length
-          console.log(`Total Pages: ${totalPages}`)
+          if (!pageData) {
+            pageData = await req.response().json()
+          }
+        }
+        if (req.response().url.endsWith('invisible.png')) {
+          invisiblePage = true
         }
         if (pageData) {
           for (let key of pageData.configuration.contents) {
             const filename = key.file
-            const re = new RegExp(`${escapeRegExp(filename).slice(2)}/[0-9].jpeg`, 'i')
-            const filenameRe = new RegExp(/p-[0-9, a-z]*/)
+            const re = new RegExp(`${escapeRegExp(filename.replace(/\.\.\//i, ''))}/[0-9].jpeg`, 'i')
+            // const filenameRe = new RegExp(/p-[0-9, a-z]*/)
             if (re.test(req.response().url)) {
+              console.log('Page file hit')
               dimension = pageData[filename].FileLinkInfo.PageLinkInfoList[0].Page.Size
               dimension = {
                 height: dimension.Height,
@@ -66,7 +69,7 @@ async function main (url) {
                 hasTouch: true
               }
               await page.setViewport(dimension)
-              readyPages.push(filenameRe.exec(filename))
+              readyPages.push(re.exec(req.response().url))
             }
           }
         }
@@ -74,13 +77,23 @@ async function main (url) {
         console.log(error)
       }
     })
-    await page.goto(url, {
+    await page.goto(url.toString(), {
       waitUntil: 'networkidle',
       networkIdleTimeout: 10000
       // timeout: 10000
     })
-    if (pageData) {
-      await page.waitFor(10000)
+    if (pageData && invisiblePage) {
+      // await page.waitFor(10000)
+      if (url.searchParams.get('cty') === '1') {
+        totalPages = pageData.configuration.contents.length
+      }
+      if (url.searchParams.get('cty') === '0') {
+        for (let key of pageData.configuration.contents) {
+          const filename = key.file
+          totalPages += pageData[filename].FileLinkInfo.PageCount
+        }
+      }
+      console.log(`Total Pages: ${totalPages}`)
       while (counter < totalPages) {
         while (counter === readyPages.length) {
           console.log(`Loaded Pages: ${readyPages.length}`)
