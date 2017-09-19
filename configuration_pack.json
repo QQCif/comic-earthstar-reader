@@ -1,0 +1,6234 @@
+{
+  "item/xhtml/p-007.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        34,
+        0,
+        0
+      ],
+      [
+        68,
+        68,
+        1
+      ],
+      [
+        86,
+        34,
+        2
+      ],
+      [
+        112,
+        0,
+        3
+      ],
+      [
+        128,
+        34,
+        4
+      ],
+      [
+        143,
+        102,
+        5
+      ],
+      [
+        155,
+        102,
+        6
+      ],
+      [
+        178,
+        0,
+        7
+      ],
+      [
+        210,
+        0,
+        8
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 9,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5516,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4798,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4080,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3362,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2644,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1926,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1208,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 7,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 490,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 8,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -228,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        17,
+        0,
+        "「すぐにいりますか？　それとも私の話を聞いてくれますか？」"
+      ],
+      [
+        35,
+        0,
+        "　地獄の底から響くような陰気な声。"
+      ],
+      [
+        68,
+        68,
+        "ると言う事で、国王の命令により神に祈り、過去の英霊を呼び出そうとして"
+      ],
+      [
+        86,
+        34,
+        "び出しても、五千は相手に出来ないだろう。この指示を出した人間の真意が"
+      ],
+      [
+        113,
+        0,
+        "「地図は分かりますか？」"
+      ],
+      [
+        128,
+        34,
+        "くのは基本かと思いながら、どうするか考える。もう少し詳しい事情は聞か"
+      ],
+      [
+        143,
+        102,
+        "から素材を集めるから気にするなと丸文字の癖字で注釈が書かれている。こ"
+      ],
+      [
+        155,
+        102,
+        "が出現する。若干まだ浮いていたか……。"
+      ],
+      [
+        179,
+        0,
+        "「ちょ……浮いてます。空を飛んでいます。なんです、これ￼　魔法です"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-toc-001.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        84,
+        0,
+        0
+      ],
+      [
+        171,
+        0,
+        1
+      ],
+      [
+        255,
+        0,
+        2
+      ],
+      [
+        288,
+        0,
+        3
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 4,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [
+              {
+                "Link": {
+                  "Href": "p-021.xhtml#toc-012",
+                  "Rect": {
+                    "Height": 252,
+                    "Width": 27,
+                    "X": 1752,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-018.xhtml#toc-011",
+                  "Rect": {
+                    "Height": 280,
+                    "Width": 27,
+                    "X": 1801,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-017.xhtml#toc-010",
+                  "Rect": {
+                    "Height": 420,
+                    "Width": 27,
+                    "X": 1850,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-016.xhtml#toc-009",
+                  "Rect": {
+                    "Height": 728,
+                    "Width": 27,
+                    "X": 1899,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-015.xhtml#toc-008",
+                  "Rect": {
+                    "Height": 588,
+                    "Width": 27,
+                    "X": 1948,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-014.xhtml#toc-007",
+                  "Rect": {
+                    "Height": 588,
+                    "Width": 27,
+                    "X": 1997,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-013.xhtml#toc-006",
+                  "Rect": {
+                    "Height": 448,
+                    "Width": 27,
+                    "X": 2046,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-010.xhtml#toc-005",
+                  "Rect": {
+                    "Height": 420,
+                    "Width": 27,
+                    "X": 2095,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-009.xhtml#toc-004",
+                  "Rect": {
+                    "Height": 784,
+                    "Width": 27,
+                    "X": 2144,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-008.xhtml#toc-003",
+                  "Rect": {
+                    "Height": 672,
+                    "Width": 27,
+                    "X": 2193,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-005.xhtml#toc-002",
+                  "Rect": {
+                    "Height": 644,
+                    "Width": 27,
+                    "X": 2242,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-004.xhtml#toc-001",
+                  "Rect": {
+                    "Height": 700,
+                    "Width": 27,
+                    "X": 2291,
+                    "Y": 0
+                  }
+                }
+              }
+            ],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1718,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [
+              {
+                "Link": {
+                  "Href": "p-024.xhtml#toc-015",
+                  "Rect": {
+                    "Height": 336,
+                    "Width": 27,
+                    "X": 1581,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-023.xhtml#toc-014",
+                  "Rect": {
+                    "Height": 280,
+                    "Width": 27,
+                    "X": 1630,
+                    "Y": 0
+                  }
+                }
+              },
+              {
+                "Link": {
+                  "Href": "p-022.xhtml#toc-013",
+                  "Rect": {
+                    "Height": 336,
+                    "Width": 27,
+                    "X": 1679,
+                    "Y": 0
+                  }
+                }
+              }
+            ],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1000,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 282,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -436,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        19,
+        0,
+        "目　次"
+      ],
+      [
+        86,
+        0,
+        "第￼話　情報と言えば酒場"
+      ],
+      [
+        172,
+        0,
+        "第￼話　子供が好きと言えばハンバーグかなと"
+      ],
+      [
+        256,
+        0,
+        "第￼話　ノーと言える日本人"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "../shared/item/xhtml/p-001.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        24,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 0,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 3,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        19,
+        0,
+        ""
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-015.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        33,
+        271,
+        0
+      ],
+      [
+        59,
+        0,
+        1
+      ],
+      [
+        75,
+        68,
+        2
+      ],
+      [
+        92,
+        33,
+        3
+      ],
+      [
+        118,
+        0,
+        4
+      ],
+      [
+        155,
+        0,
+        5
+      ],
+      [
+        173,
+        0,
+        6
+      ],
+      [
+        183,
+        136,
+        7
+      ],
+      [
+        198,
+        34,
+        8
+      ],
+      [
+        200,
+        0,
+        9
+      ],
+      [
+        205,
+        0,
+        10
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 11,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 6560,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5842,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5124,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4406,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3688,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2970,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2252,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 7,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1534,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 8,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 816,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 9,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 98,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 10,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -620,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-008": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第８話　レティとの会話とトラックでの道行"
+      ],
+      [
+        33,
+        271,
+        "気にする必要は無いかと、安心する。"
+      ],
+      [
+        62,
+        0,
+        "『ぬくー』"
+      ],
+      [
+        75,
+        68,
+        "の『ほきゅう』は行った。"
+      ],
+      [
+        92,
+        33,
+        "て、じたばたとしていたが、剝がしてあげるとくるりと伏せる。"
+      ],
+      [
+        119,
+        0,
+        "「えっ……。良いんですか￼」"
+      ],
+      [
+        156,
+        0,
+        "　バターナイフとバターを渡すと、くんくんと嗅いで、驚きの表情に変わ"
+      ],
+      [
+        174,
+        0,
+        "　原材料を見るとブタなのだが、潰されているので分かり辛いだろう。キュ"
+      ],
+      [
+        183,
+        136,
+        "用して良いか聞かれたので、頷きを返す。布で巻いただけのブラと紐で結ぶ"
+      ],
+      [
+        198,
+        34,
+        "荷台の方がかなり高めになっているが、スロープ用の鉄板を生み出し、馬に"
+      ],
+      [
+        201,
+        0,
+        "　力強いエンジンの音を響かせながら、砂煙をあげて、カーキ色の車体が一"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-021.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        50,
+        34,
+        0
+      ],
+      [
+        71,
+        66,
+        1
+      ],
+      [
+        99,
+        0,
+        2
+      ],
+      [
+        121,
+        34,
+        3
+      ],
+      [
+        132,
+        0,
+        4
+      ],
+      [
+        147,
+        0,
+        5
+      ],
+      [
+        173,
+        0,
+        6
+      ],
+      [
+        198,
+        34,
+        7
+      ],
+      [
+        218,
+        0,
+        8
+      ],
+      [
+        232,
+        0,
+        9
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 10,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 6087,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5369,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4651,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3933,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3215,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2497,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1779,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 7,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1061,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 8,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 343,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 9,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -375,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-012": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第￼話　王都の状況"
+      ],
+      [
+        50,
+        34,
+        "時間もしない内に順番が回ってきた。"
+      ],
+      [
+        71,
+        66,
+        "か？」"
+      ],
+      [
+        100,
+        0,
+        "「そうか……。まぁ、歳が歳か。弟子の方は何か出来るのか？」"
+      ],
+      [
+        121,
+        34,
+        "況ならしょうがないかな。そう思いながら、偽造した千タルの札をざらりと"
+      ],
+      [
+        133,
+        0,
+        "「はい。お願い出来ますか？」"
+      ],
+      [
+        148,
+        0,
+        "　宿が貸すのは場所だけかと思いながら見ていると、アルトが布で馬の体を"
+      ],
+      [
+        174,
+        0,
+        "「三日ほどの宿泊を考えています。一番良い部屋でお幾らですか？」"
+      ],
+      [
+        198,
+        34,
+        "ているようだが、下の布団を剝がすと、腐った藁から若干水分が出ている。"
+      ],
+      [
+        219,
+        0,
+        "「ふむ……。そこに昨日のキャンピングカーを出して寝ますか。形跡を残す"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-018.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        56,
+        68,
+        0
+      ],
+      [
+        77,
+        34,
+        1
+      ],
+      [
+        100,
+        34,
+        2
+      ],
+      [
+        112,
+        101,
+        3
+      ],
+      [
+        147,
+        102,
+        4
+      ],
+      [
+        157,
+        0,
+        5
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 6,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3117,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2399,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1681,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 963,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 245,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -473,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-011": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第￼話　野盗との一幕"
+      ],
+      [
+        56,
+        68,
+        "はーみたいな感じで頭だけ出してくる。"
+      ],
+      [
+        77,
+        34,
+        "護衛が付いていましたが、帰りは呼び出した人間に守ってもらえとの事でし"
+      ],
+      [
+        100,
+        34,
+        "いです。なので、町を出るという事はその覚悟をするという事になります」"
+      ],
+      [
+        112,
+        101,
+        "点はじりじりと林を移動していたが、三十メートルほど後方で止まる。あち"
+      ],
+      [
+        147,
+        102,
+        "指示に従っている。"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-022.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        50,
+        0,
+        0
+      ],
+      [
+        87,
+        34,
+        1
+      ],
+      [
+        99,
+        236,
+        2
+      ],
+      [
+        146,
+        0,
+        3
+      ],
+      [
+        164,
+        102,
+        4
+      ],
+      [
+        186,
+        0,
+        5
+      ],
+      [
+        213,
+        0,
+        6
+      ],
+      [
+        243,
+        0,
+        7
+      ],
+      [
+        257,
+        0,
+        8
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 9,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5320,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4602,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3884,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3166,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2448,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1730,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1012,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 7,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 294,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 8,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -424,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-013": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第￼話　情報と言えば酒場"
+      ],
+      [
+        51,
+        0,
+        "　アルトにそう伝える。"
+      ],
+      [
+        87,
+        34,
+        "レバーを降ろす。"
+      ],
+      [
+        99,
+        236,
+        "ので、少し手間をかけただけだ。"
+      ],
+      [
+        147,
+        0,
+        "　むにゃむにゃとした思考が流れ込んでくるが、眠ってくれるなら良いか"
+      ],
+      [
+        164,
+        102,
+        "が良く、マスターも話を聞いてくれるらしい。夕飯の時間には少し早いか"
+      ],
+      [
+        187,
+        0,
+        "「はーい、お爺ちゃん。そろそろ夕飯時だからね。カウンターで良いか"
+      ],
+      [
+        214,
+        0,
+        "　それはワインだろうか、情報だろうか……。"
+      ],
+      [
+        244,
+        0,
+        "「毎度。五年前のだ。当たり年だった。目当てのはもうしばらくしたら来る"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-012.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        33,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -277,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        17,
+        0,
+        "　そこからは、巻き上げるが早いか、ぱくぱくと食べ進める。眺めていて気"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-010.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        46,
+        0,
+        0
+      ],
+      [
+        64,
+        221,
+        1
+      ],
+      [
+        85,
+        101,
+        2
+      ],
+      [
+        100,
+        136,
+        3
+      ],
+      [
+        115,
+        170,
+        4
+      ],
+      [
+        129,
+        0,
+        5
+      ],
+      [
+        162,
+        0,
+        6
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 7,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4237,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3519,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2801,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2083,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1365,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 647,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -71,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-005": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第５話　お馬さんの寝床と夕ご飯"
+      ],
+      [
+        47,
+        0,
+        "「夜は、冷え込みますか？」"
+      ],
+      [
+        64,
+        221,
+        "藁にころんと横になり、ポジションを調整して、口元を動かしながら、徐々"
+      ],
+      [
+        85,
+        101,
+        "うか。キッチンスペースに生みだし、湯煎して温める。水をあげた時に、冷"
+      ],
+      [
+        100,
+        136,
+        "明が灯る。アルトが驚きの顔で見上げる。"
+      ],
+      [
+        115,
+        170,
+        "らは時間との勝負と言う事で、フライパンに多目のオリーブオイルを注ぎニ"
+      ],
+      [
+        130,
+        0,
+        "「いえ。このような食事の道具と言うのは初めてみました……。普通は匙\nさじ\nと"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "../shared/item/xhtml/p-002.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        24,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 0,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 3,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        19,
+        0,
+        ""
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-024.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        47,
+        0,
+        0
+      ],
+      [
+        80,
+        0,
+        1
+      ],
+      [
+        104,
+        0,
+        2
+      ],
+      [
+        116,
+        0,
+        3
+      ],
+      [
+        122,
+        0,
+        4
+      ],
+      [
+        163,
+        31,
+        5
+      ],
+      [
+        181,
+        0,
+        6
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 7,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4276,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3558,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2840,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2122,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1404,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 686,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -32,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-015": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第￼話　赤身肉のステーキ"
+      ],
+      [
+        48,
+        0,
+        "　記憶を頼りにこんもりしたカモフラージュに近づき、ノックの後、鍵を開"
+      ],
+      [
+        81,
+        0,
+        "　顔を上げて、きゅーんみたいな鳴き声を上げる。こっちの方が先か。"
+      ],
+      [
+        105,
+        0,
+        "「ふわぁ……。甘い。うーん、食べた事があると思うんですが……。野菜の"
+      ],
+      [
+        117,
+        0,
+        "　ジューという音に耳を傾けながら、音の変化を楽しむ。徐々に沈んでいく"
+      ],
+      [
+        123,
+        0,
+        "　ミルクを飲み終わったレティに毛布をかけて撫でていたアルトが、匂いだ"
+      ],
+      [
+        163,
+        31,
+        "く。取り分けたサラダを差し出して、私も肉を頰張る。さくりとした歯応え"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-016.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        45,
+        34,
+        0
+      ],
+      [
+        54,
+        34,
+        1
+      ],
+      [
+        83,
+        0,
+        2
+      ],
+      [
+        102,
+        34,
+        3
+      ],
+      [
+        114,
+        68,
+        4
+      ],
+      [
+        123,
+        0,
+        5
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 6,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3019,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2301,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1583,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 865,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 147,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -571,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-009": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第９話　視点変更～アルト～　アルトからみ"
+      ],
+      [
+        45,
+        34,
+        "前に亡くなったと聞いた。母も二年前に流行り病で亡くなった。それからは"
+      ],
+      [
+        54,
+        34,
+        "問だった。体を清めると言って、祠の外の小さな泉で水浴をした時に震えが"
+      ],
+      [
+        87,
+        0,
+        "　光を感じて、薄く目を開ける。目の前には青空がどこまでも広がり、一"
+      ],
+      [
+        102,
+        34,
+        "象だけど、少し女性っぽい三角形。お髭は全然生えていなかった。髪は光に"
+      ],
+      [
+        114,
+        68,
+        "しそうな香りがするんだもん……。"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "../shared/item/xhtml/p-019.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        21,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 0,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        17,
+        0,
+        ""
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-014.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        44,
+        68,
+        0
+      ],
+      [
+        64,
+        133,
+        1
+      ],
+      [
+        73,
+        169,
+        2
+      ],
+      [
+        85,
+        102,
+        3
+      ],
+      [
+        112,
+        34,
+        4
+      ],
+      [
+        138,
+        0,
+        5
+      ],
+      [
+        162,
+        0,
+        6
+      ],
+      [
+        181,
+        34,
+        7
+      ],
+      [
+        188,
+        0,
+        8
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 9,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5173,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4455,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3737,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3019,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2301,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1583,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 865,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 7,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 147,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 8,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -571,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-007": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第７話　『せいぞう』に関する謎と万歳する"
+      ],
+      [
+        44,
+        68,
+        "オレンジジュースを差し出す。"
+      ],
+      [
+        64,
+        133,
+        "意識を逸らしておいた。何かの悪意を抱いたとしても、動いた際に音の響き"
+      ],
+      [
+        73,
+        169,
+        "載出来るモデルを選んだ。"
+      ],
+      [
+        85,
+        102,
+        "儀に手を離される度に、万歳をしている。カーテンを開けると、アルトが振"
+      ],
+      [
+        112,
+        34,
+        "のはどうでしょうか？」"
+      ],
+      [
+        139,
+        0,
+        "「飲み込まず、口をすすいで下さい」"
+      ],
+      [
+        163,
+        0,
+        "　ふわふわした羽根布団の感触にうっとりするアルトにもう一つのプレゼン"
+      ],
+      [
+        181,
+        34,
+        "く。流石に日本人に取っては眠るにはまだ早い。夜はこれからだ。"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "../shared/item/xhtml/p-025.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        24,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 0,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        19,
+        0,
+        ""
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-020.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        50,
+        0,
+        0
+      ],
+      [
+        78,
+        136,
+        1
+      ],
+      [
+        104,
+        0,
+        2
+      ],
+      [
+        132,
+        0,
+        3
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 4,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2024,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1306,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 588,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -130,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        17,
+        0,
+        "　暫しの逡巡の後、ガサガサと音を鳴らしながら森から出てくる弓を持った"
+      ],
+      [
+        51,
+        0,
+        "「そちらに何らの権利はない。私の質問に答えろ」"
+      ],
+      [
+        78,
+        136,
+        "ないだろう……。下賤な。"
+      ],
+      [
+        105,
+        0,
+        "　それを見たアルトが息を吞み、謝罪のため口を開こうとする。それを右手"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-004.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        43,
+        0,
+        0
+      ],
+      [
+        94,
+        0,
+        1
+      ],
+      [
+        177,
+        0,
+        2
+      ],
+      [
+        217,
+        0,
+        3
+      ],
+      [
+        247,
+        0,
+        4
+      ],
+      [
+        271,
+        0,
+        5
+      ],
+      [
+        292,
+        0,
+        6
+      ],
+      [
+        322,
+        31,
+        7
+      ],
+      [
+        356,
+        0,
+        8
+      ],
+      [
+        369,
+        0,
+        9
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 10,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5901,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5183,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4465,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3747,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3029,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2311,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1593,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 7,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 875,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 8,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 157,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 9,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -561,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-001": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第１話　大往生と思ったら、新たな人生の始"
+      ],
+      [
+        44,
+        0,
+        "　ひょこりと川縁の映像から少女が片手を突きながら、ひょうと飛び出して"
+      ],
+      [
+        95,
+        0,
+        "「違う、違う。ちょっと君にお願いがあってね、大\nおお\n沢\nさわ\n敏\nとし\n明\nあき\n君」"
+      ],
+      [
+        178,
+        0,
+        "　ふと考え込んでいる最中に物凄い事を言われた気がする。"
+      ],
+      [
+        218,
+        0,
+        "「人間は……いるのかい？」"
+      ],
+      [
+        248,
+        0,
+        "「君じゃ無くても良いけど、君が適任だと思っているよ。まぁ、気楽に楽し"
+      ],
+      [
+        272,
+        0,
+        "「んー。いきなり全能なんて渡されたって、使い方に困るだけかなって。君"
+      ],
+      [
+        293,
+        0,
+        "「『せっけい』と『せいぞう』は対だね。『せいぞう』は今まで君に関わっ"
+      ],
+      [
+        322,
+        31,
+        "出来るから、話しかけてみて。ちなみに、結構力を使うから、なるべく自分"
+      ],
+      [
+        357,
+        0,
+        "「……根の国\nあの世\nなんて無いさ。物質も思いもエネルギーの流転。全は個、個は"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "../shared/item/xhtml/p-011.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        21,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 0,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        17,
+        0,
+        ""
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-005.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        36,
+        68,
+        0
+      ],
+      [
+        72,
+        0,
+        1
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 2,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 689,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -29,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-002": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第２話　状況が分からない？　はい、ヘリコ"
+      ],
+      [
+        36,
+        68,
+        "いる。その顔は驚愕で満ちていた。"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-013.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        45,
+        68,
+        0
+      ],
+      [
+        62,
+        102,
+        1
+      ],
+      [
+        88,
+        0,
+        2
+      ],
+      [
+        104,
+        34,
+        3
+      ],
+      [
+        121,
+        53,
+        4
+      ],
+      [
+        138,
+        0,
+        5
+      ],
+      [
+        167,
+        0,
+        6
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 7,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4276,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3558,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2840,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2122,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1404,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 686,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -32,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-006": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第６話　はじめてのしゃわーたいむ"
+      ],
+      [
+        45,
+        68,
+        "してからは運動も碌\nろく\nに出来なかったし、内臓の不調や水が溜まり餓鬼のよう"
+      ],
+      [
+        62,
+        102,
+        "らを向いて、驚いた顔を見せる。"
+      ],
+      [
+        89,
+        0,
+        "　聞くと、リンスインシャンプーのボトルを指さす。低刺激の物なので、慣"
+      ],
+      [
+        104,
+        34,
+        "体を清めて下さい。その後、お湯で洗い流すだけです。扉を開ければ、拭く"
+      ],
+      [
+        121,
+        53,
+        "が微かに響く。カーテンの端から湿った頭がひょこりと覗き、終わりました"
+      ],
+      [
+        139,
+        0,
+        "　初めての出会いの際は、少しくすんだ印象だったが、今の彼女はどこにで"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "../shared/item/xhtml/p-006.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        21,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 0,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        17,
+        0,
+        ""
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-017.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        45,
+        101,
+        0
+      ],
+      [
+        62,
+        0,
+        1
+      ],
+      [
+        92,
+        0,
+        2
+      ],
+      [
+        116,
+        68,
+        3
+      ],
+      [
+        130,
+        0,
+        4
+      ],
+      [
+        142,
+        0,
+        5
+      ],
+      [
+        166,
+        22,
+        6
+      ],
+      [
+        181,
+        136,
+        7
+      ],
+      [
+        198,
+        20,
+        8
+      ],
+      [
+        227,
+        0,
+        9
+      ],
+      [
+        232,
+        0,
+        10
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 11,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 6707,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5989,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 5271,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4553,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3835,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3117,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2399,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 7,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1681,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 8,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 963,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 9,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 245,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 10,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -473,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-010": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第￼話　通貨偽造と缶詰の偉大さ"
+      ],
+      [
+        45,
+        101,
+        "表に数字と裏には紋章のようなものが焼印で押されている。数字は指の数が"
+      ],
+      [
+        63,
+        0,
+        "「ちなみに偽造などは起こらないのですか？」"
+      ],
+      [
+        93,
+        0,
+        "　少なくとも、この国に長居をするつもりはない。アルトには呼び出された"
+      ],
+      [
+        116,
+        68,
+        "車の番をしている間に村に入ってもらう。"
+      ],
+      [
+        131,
+        0,
+        "　布を預かると、解れの状態から、羊毛などの毛を紡いだ織物だと気付く。"
+      ],
+      [
+        143,
+        0,
+        "「え？　膝にかけるんですか？　柔らかいし、軽い……。それに温か"
+      ],
+      [
+        166,
+        22,
+        "バルゲームに参加した時に合流した軍事系に詳しい人が持ち込んでいたのを"
+      ],
+      [
+        181,
+        136,
+        "も良いと思う……。食料品の調味料のドレッシングのタグを開くと、ざらっ"
+      ],
+      [
+        198,
+        20,
+        "のかな、食べても。それに大麦かと思っていましたが、匂いも食感も違いま"
+      ],
+      [
+        228,
+        0,
+        "　食べながら聞いていると、塩は岩塩を採掘して分けているため、採掘量に"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-008.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        50,
+        0,
+        0
+      ],
+      [
+        67,
+        0,
+        1
+      ],
+      [
+        83,
+        204,
+        2
+      ],
+      [
+        100,
+        0,
+        3
+      ],
+      [
+        124,
+        0,
+        4
+      ],
+      [
+        143,
+        67,
+        5
+      ],
+      [
+        152,
+        136,
+        6
+      ],
+      [
+        162,
+        0,
+        7
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 8,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4602,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3884,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3166,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2448,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1730,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1012,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 294,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 7,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -424,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-003": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第３話　キャンピングカーは文明の利器だと"
+      ],
+      [
+        50,
+        0,
+        "する上空を勢い良く通り過ぎていく。"
+      ],
+      [
+        68,
+        0,
+        "「これは？」"
+      ],
+      [
+        83,
+        204,
+        "口から水を出してみると、懐かしい水道水の味がして、苦笑が浮かぶ。"
+      ],
+      [
+        101,
+        0,
+        "　そう告げると、ほのかに顔が赤らむ。冷蔵庫からカクテル用の生オレンジ"
+      ],
+      [
+        125,
+        0,
+        "　口調が改まっているのを聞き、少し苦笑が浮かんでしまう。"
+      ],
+      [
+        143,
+        67,
+        "と、瞳を輝かせる。ててっと棚に近付いては開いて、驚くのを繰り返してい"
+      ],
+      [
+        152,
+        136,
+        "する。"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-023.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        42,
+        136,
+        0
+      ],
+      [
+        73,
+        0,
+        1
+      ],
+      [
+        88,
+        0,
+        2
+      ],
+      [
+        110,
+        33,
+        3
+      ],
+      [
+        143,
+        33,
+        4
+      ],
+      [
+        166,
+        0,
+        5
+      ],
+      [
+        189,
+        0,
+        6
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 7,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 4129,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3411,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2693,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1975,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1257,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 539,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 6,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -179,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-014": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第￼話　もしもの人手"
+      ],
+      [
+        42,
+        136,
+        "女の子に率いられる集団が信頼されているという事実に少し驚いた。マス"
+      ],
+      [
+        74,
+        0,
+        "「商人……。軍人っぽさもあるか……。分かんねぇな。こんなしがない何で"
+      ],
+      [
+        89,
+        0,
+        "「で、爺さんは何を企んでいるんだよ。あたしらに出来る事なんて、町中の"
+      ],
+      [
+        110,
+        33,
+        "が、確実にそれなりの人数の手を借りる必要が出てきそうなので、先んじて"
+      ],
+      [
+        143,
+        33,
+        "す。その手伝いをお願いしたいと考えています」"
+      ],
+      [
+        167,
+        0,
+        "「はい、では同じ時間にここで」"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "configuration": {
+    "contents": [
+      {
+        "file": "../shared/item/xhtml/p-cover.xhtml",
+        "index": 1,
+        "original-file-path": "item/xhtml/p-cover.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "../shared/item/xhtml/p-001.xhtml",
+        "index": 2,
+        "original-file-path": "item/xhtml/p-001.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "../shared/item/xhtml/p-002.xhtml",
+        "index": 3,
+        "original-file-path": "item/xhtml/p-002.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "../shared/item/xhtml/p-003.xhtml",
+        "index": 4,
+        "original-file-path": "item/xhtml/p-003.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-toc-001.xhtml",
+        "index": 5,
+        "original-file-path": "item/xhtml/p-toc-001.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-004.xhtml",
+        "index": 6,
+        "original-file-path": "item/xhtml/p-004.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-005.xhtml",
+        "index": 7,
+        "original-file-path": "item/xhtml/p-005.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "../shared/item/xhtml/p-006.xhtml",
+        "index": 8,
+        "original-file-path": "item/xhtml/p-006.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-007.xhtml",
+        "index": 9,
+        "original-file-path": "item/xhtml/p-007.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-008.xhtml",
+        "index": 10,
+        "original-file-path": "item/xhtml/p-008.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-009.xhtml",
+        "index": 11,
+        "original-file-path": "item/xhtml/p-009.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-010.xhtml",
+        "index": 12,
+        "original-file-path": "item/xhtml/p-010.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "../shared/item/xhtml/p-011.xhtml",
+        "index": 13,
+        "original-file-path": "item/xhtml/p-011.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-012.xhtml",
+        "index": 14,
+        "original-file-path": "item/xhtml/p-012.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-013.xhtml",
+        "index": 15,
+        "original-file-path": "item/xhtml/p-013.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-014.xhtml",
+        "index": 16,
+        "original-file-path": "item/xhtml/p-014.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-015.xhtml",
+        "index": 17,
+        "original-file-path": "item/xhtml/p-015.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-016.xhtml",
+        "index": 18,
+        "original-file-path": "item/xhtml/p-016.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-017.xhtml",
+        "index": 19,
+        "original-file-path": "item/xhtml/p-017.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-018.xhtml",
+        "index": 20,
+        "original-file-path": "item/xhtml/p-018.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "../shared/item/xhtml/p-019.xhtml",
+        "index": 21,
+        "original-file-path": "item/xhtml/p-019.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-020.xhtml",
+        "index": 22,
+        "original-file-path": "item/xhtml/p-020.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-021.xhtml",
+        "index": 23,
+        "original-file-path": "item/xhtml/p-021.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-022.xhtml",
+        "index": 24,
+        "original-file-path": "item/xhtml/p-022.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-023.xhtml",
+        "index": 25,
+        "original-file-path": "item/xhtml/p-023.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "item/xhtml/p-024.xhtml",
+        "index": 26,
+        "original-file-path": "item/xhtml/p-024.xhtml",
+        "type": "bmp"
+      },
+      {
+        "file": "../shared/item/xhtml/p-025.xhtml",
+        "index": 27,
+        "original-file-path": "item/xhtml/p-025.xhtml",
+        "type": "bmp"
+      }
+    ],
+    "json-format-version": "1.2.2",
+    "nav-lists": [
+      {
+        "heading": "Navigation",
+        "items": [
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-cover.xhtml",
+            "label": "表紙",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-toc-001.xhtml",
+            "label": "目次",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-004.xhtml#toc-001",
+            "label": "第１話　大往生と思ったら、新たな人生の始まりでした",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-005.xhtml#toc-002",
+            "label": "第２話　状況が分からない？　はい、ヘリコプター",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-008.xhtml#toc-003",
+            "label": "第３話　キャンピングカーは文明の利器だと思います",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-009.xhtml#toc-004",
+            "label": "第４話　戦争の理由と言いますが、そんな訳が無いと思います",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-010.xhtml#toc-005",
+            "label": "第５話　お馬さんの寝床と夕ご飯",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-013.xhtml#toc-006",
+            "label": "第６話　はじめてのしゃわーたいむ",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-014.xhtml#toc-007",
+            "label": "第７話　『せいぞう』に関する謎と万歳する獣",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-015.xhtml#toc-008",
+            "label": "第８話　レティとの会話とトラックでの道行き",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-016.xhtml#toc-009",
+            "label": "第９話　視点変更～アルト～　アルトからみたアキの印象",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-017.xhtml#toc-010",
+            "label": "第10話　通貨偽造と缶詰の偉大さ",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-018.xhtml#toc-011",
+            "label": "第11話　野盗との一幕",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-021.xhtml#toc-012",
+            "label": "第12話　王都の状況",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-022.xhtml#toc-013",
+            "label": "第13話　情報と言えば酒場",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-023.xhtml#toc-014",
+            "label": "第14話　もしもの人手",
+            "nest": 0,
+            "types": []
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-024.xhtml#toc-015",
+            "label": "第15話　赤身肉のステーキ",
+            "nest": 0,
+            "types": []
+          }
+        ],
+        "types": [
+          "toc"
+        ]
+      },
+      {
+        "heading": "Guide",
+        "items": [
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-cover.xhtml",
+            "label": "表紙",
+            "nest": 0,
+            "types": [
+              "cover"
+            ]
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-toc-001.xhtml",
+            "label": "目次",
+            "nest": 0,
+            "types": [
+              "toc"
+            ]
+          },
+          {
+            "hidden": false,
+            "href": "item/xhtml/p-001.xhtml",
+            "label": "本編",
+            "nest": 0,
+            "types": [
+              "bodymatter"
+            ]
+          }
+        ],
+        "types": [
+          "landmarks"
+        ]
+      }
+    ],
+    "page-progression-direction": "rtl",
+    "prerenderer-version": {
+      "epub-preprocess": {
+        "commit-id": "f65b02ff5e255e512b99c53fbc6dd31a3915496f",
+        "revision": 91839
+      },
+      "skia": {
+        "commit-id": "942f2e22fd1e900ced90c08147067f5a0191c42e",
+        "revision": 2791
+      },
+      "icu": {
+        "commit-id": "09b3ba2cdb12f778c84799721943a4ffbb9e6abd",
+        "revision": 59
+      },
+      "WebKit": {
+        "commit-id": "00c5f00be9e14fe17996fc015590992ab8011de2",
+        "revision": 23452
+      }
+    },
+    "toc-list": [
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-cover.xhtml",
+        "label": "表紙",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-toc-001.xhtml",
+        "label": "目次",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-004.xhtml#toc-001",
+        "label": "第１話　大往生と思ったら、新たな人生の始まりでした",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-005.xhtml#toc-002",
+        "label": "第２話　状況が分からない？　はい、ヘリコプター",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-008.xhtml#toc-003",
+        "label": "第３話　キャンピングカーは文明の利器だと思います",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-009.xhtml#toc-004",
+        "label": "第４話　戦争の理由と言いますが、そんな訳が無いと思います",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-010.xhtml#toc-005",
+        "label": "第５話　お馬さんの寝床と夕ご飯",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-013.xhtml#toc-006",
+        "label": "第６話　はじめてのしゃわーたいむ",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-014.xhtml#toc-007",
+        "label": "第７話　『せいぞう』に関する謎と万歳する獣",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-015.xhtml#toc-008",
+        "label": "第８話　レティとの会話とトラックでの道行き",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-016.xhtml#toc-009",
+        "label": "第９話　視点変更～アルト～　アルトからみたアキの印象",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-017.xhtml#toc-010",
+        "label": "第10話　通貨偽造と缶詰の偉大さ",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-018.xhtml#toc-011",
+        "label": "第11話　野盗との一幕",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-021.xhtml#toc-012",
+        "label": "第12話　王都の状況",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-022.xhtml#toc-013",
+        "label": "第13話　情報と言えば酒場",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-023.xhtml#toc-014",
+        "label": "第14話　もしもの人手",
+        "nest": 0,
+        "types": []
+      },
+      {
+        "hidden": false,
+        "href": "item/xhtml/p-024.xhtml#toc-015",
+        "label": "第15話　赤身肉のステーキ",
+        "nest": 0,
+        "types": []
+      }
+    ]
+  },
+  "../shared/item/xhtml/p-003.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        24,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 0,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 1,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        19,
+        0,
+        ""
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "item/xhtml/p-009.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        41,
+        224,
+        0
+      ],
+      [
+        52,
+        0,
+        1
+      ],
+      [
+        65,
+        68,
+        2
+      ],
+      [
+        83,
+        136,
+        3
+      ],
+      [
+        105,
+        34,
+        4
+      ],
+      [
+        135,
+        0,
+        5
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 6,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 3421,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 1,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 2703,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 2,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1985,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 3,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 1267,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 4,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 549,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        },
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 5,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": -169,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 0,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {
+      "toc-004": 0
+    },
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        23,
+        0,
+        "第４話　戦争の理由と言いますが、そんな訳"
+      ],
+      [
+        41,
+        224,
+        "まま置き去りになっているそうだ。王都に収容するならまだ分かる。食料も"
+      ],
+      [
+        53,
+        0,
+        "「あぁ、見えました。王都『タルリタ』です￼」"
+      ],
+      [
+        65,
+        68,
+        "ける。"
+      ],
+      [
+        83,
+        136,
+        "周囲が石積みの壁で覆われている。一万や二万の民衆が避難する事は容易い"
+      ],
+      [
+        105,
+        34,
+        "い無く、『タルリタ』側に何か裏がある。その確信を抱き、暗\nあん\n澹\nたん\nたる気持ち"
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  },
+  "../shared/item/xhtml/p-cover.xhtml": {
+    "BookmarkPositionToPage": [
+      [
+        24,
+        0,
+        0
+      ]
+    ],
+    "FileLinkInfo": {
+      "PageCount": 1,
+      "PageLinkInfoList": [
+        {
+          "Page": {
+            "ContentArea": {
+              "Height": 974,
+              "Width": 718,
+              "X": 25,
+              "Y": 25
+            },
+            "LinkList": [],
+            "No": 0,
+            "Rect": {
+              "Height": 974,
+              "Width": 718,
+              "X": 0,
+              "Y": 0
+            },
+            "Shrink": 1.0,
+            "Size": {
+              "Height": 1024,
+              "Width": 768
+            },
+            "DummyWidth": 0,
+            "DummyHeight": 0
+          }
+        }
+      ]
+    },
+    "FixedLayoutSpec": {
+      "AccessOrientation": 1,
+      "AccessScroll": 1,
+      "DeviceOrientation": 2,
+      "PageSide": 3,
+      "RenditionLayout": 1,
+      "RenditionSpread": 5
+    },
+    "IdToPage": {},
+    "MarginOff": 0,
+    "PageToBookmark": [
+      [
+        19,
+        0,
+        ""
+      ]
+    ],
+    "Title": "二度目の地球で街づくり　開拓者はお爺ちゃん　１"
+  }
+}
