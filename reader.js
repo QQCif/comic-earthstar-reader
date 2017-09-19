@@ -1,8 +1,21 @@
 /* Only works with manga */
+const puppeteer = require('puppeteer')
+const escapeRegExp = require('lodash.escaperegexp')
+require('yargs') // eslint-disable-line
+  .command('start', 'start grabbing', (yargs) => {
+    yargs.option({
+      'url': {
+        alias: 'u',
+        describe: 'page to grab'
+      }
+    })
+  }, (argv) => {
+    if (argv.url) main(argv.url)
+  })
+  .demandOption(['url'], 'Please provide the URL to work with')
+  .argv
 
-(async () => {
-  const puppeteer = require('puppeteer')
-  const escapeRegExp = require('lodash.escaperegexp')
+async function main (url) {
   // const url = 'http://viewer.comic-earthstar.jp/viewer.html?cid=fec8d47d412bcbeece3d9128ae855a7a&cty=1&lin=0'
   const mobileUa = 'Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36'
   function getRandomArbitrary (min, max) {
@@ -16,7 +29,6 @@
     if (process.argv.length < 3) {
       throw new Error('Please enter proper url')
     }
-    const url = `http://viewer.comic-earthstar.jp/viewer.html?cid=${process.argv[2]}&cty=1&lin=0`
     let pageData = null
     let totalPages = null
     let dimension = null
@@ -96,4 +108,4 @@
       console.log(error)
     }
   }
-})()
+}
