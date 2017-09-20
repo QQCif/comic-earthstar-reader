@@ -5,7 +5,7 @@ const puppeteer = require('puppeteer')
 const escapeRegExp = require('lodash.escaperegexp')
 const { URL } = require('url')
 const EventEmitter = require('events')
-class MyEmitter extends EventEmitter {}
+class MyEmitter extends EventEmitter { }
 const myEmitter = new MyEmitter()
 
 /**
@@ -25,12 +25,12 @@ require('yargs') // eslint-disable-line
   .demandOption(['url'], 'Please provide the URL to work with')
   .argv
 
-  /**
-   * Main entry function
-   * @async
-   * @function main
-   * @param {string} url - The URL of the page
-   */
+/**
+ * Main entry function
+ * @async
+ * @function main
+ * @param {string} url - The URL of the page
+ */
 async function main (url) {
   /** Mocking mobile platform to get rid of page scroll animation */
   const mobileUa = 'Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36'
@@ -70,7 +70,6 @@ async function main (url) {
     /** Handle 'loaddone' event */
     myEmitter.on('loaddone', async () => {
       console.log('invisible page loaded!')
-
       /** Check if page data is ready */
       if (pageData) {
         /** Seems manga has 'cty=1' in URL */
@@ -91,16 +90,28 @@ async function main (url) {
          * total pages then close browser
          */
         while (counter < totalPages) {
-          while (counter === readyPages.length) {
-            console.log(`Loaded Pages: ${readyPages.length}`)
-            console.log('waiting 5000ms')
-            await page.waitFor(5000)
+          let retry = 0
+          while (readyPages.length > 0) {
+            console.log(`Cache size: ${readyPages.length}`)
+            await intervalScreenshot(1000, counter, dimension)
+            const shiftFileName = readyPages.shift()
+            counter++
+            console.log(`Done: ${counter}, name: ${shiftFileName}`)
           }
-          await intervalScreenshot(1000, counter, dimension)
-          console.log(`Done: ${counter}`)
-          ++counter
-          if (counter === totalPages) {
-            await browser.close()
+          while (readyPages.length === 0) {
+            if (counter === totalPages) {
+              await browser.close()
+              return
+            }
+            const waitInterval = 1000
+            await page.waitFor(waitInterval)
+            ++retry
+            console.log(`Total retried ${retry} time(s), used ${waitInterval / 1000 * retry} second(s).`)
+            if (retry === 60) {
+              console.log(`Retried ${retry} times, aborting...`)
+              await browser.close()
+              return
+            }
           }
         }
       }
@@ -138,9 +149,8 @@ async function main (url) {
              * '../shared/item/xhtml/p-001.xhtml/number.jpeg' or
              * 'item/xhtml/p-001.xhtml/number.jpeg'
              */
-            const re = new RegExp(`${escapeRegExp(filename.replace(/\.\.\//i, ''))}/[0-9].jpeg`, 'i')
+            const re = new RegExp(`${escapeRegExp(filename.replace(/\.\.\//i, ''))}/[0-9]*.jpeg`, 'i')
             if (re.test(req.response().url)) {
-              console.log('Page file hit')
               dimension = pageData[filename].FileLinkInfo.PageLinkInfoList[0].Page.Size
               dimension = {
                 height: dimension.Height,
@@ -177,10 +187,12 @@ async function main (url) {
    */
   async function intervalScreenshot (interval, filename, dimension) {
     try {
-      // Click mocking
+      /**
+       * Click mocking
+       */
       await page.waitFor(interval * getRandomArbitrary(1, 1.1))
       await page.screenshot({ path: `output/${filename}.png` })
-      await page.touchscreen.tap(dimension.width * 0.1 + getRandomArbitrary(-10, 10), dimension.height * 0.7 + getRandomArbitrary(-10, 10))
+      await page.touchscreen.tap(dimension.width * 0.1 + getRandomArbitrary(-5, 5), dimension.height * 0.7 + getRandomArbitrary(-5, 5))
     } catch (error) {
       console.log(error)
     }

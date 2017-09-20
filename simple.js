@@ -1,6 +1,6 @@
 (async () => {
   const puppeteer = require('puppeteer')
-  const url = 'http://viewer.comic-earthstar.jp/viewer.html?cid=6602294be910b1e3c4571bd98c4d5484&cty=0&lin=0'
+  const url = 'http://viewer.comic-earthstar.jp/viewer.html?cid=860320be12a1c050cd7731794e231bd3&cty=0&lin=0'
   const mobileUa = 'Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36'
 
   function getRandomArbitrary (min, max) {
