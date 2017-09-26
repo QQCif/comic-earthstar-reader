@@ -33,7 +33,7 @@ require('yargs') // eslint-disable-line
  */
 async function main (url) {
   /** Mocking mobile platform to get rid of page scroll animation */
-  const mobileUa = 'Mozilla/5.0 (Linux; Android 4.4.2; LGL22 Build/KOT49I.LGL2220c) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.116 Mobile Safari/537.36'
+  const mobileUa = 'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Mobile Safari/537.36'
 
   /**
    * Getting a random number between two values
