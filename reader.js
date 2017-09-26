@@ -1,29 +1,39 @@
 /**
- * Tool to grab Earth Star
+ * A dumb tool to grab Comic Earth Star
  */
 const puppeteer = require('puppeteer')
 const escapeRegExp = require('lodash.escaperegexp')
 const { URL } = require('url')
 const EventEmitter = require('events')
-class MyEmitter extends EventEmitter { }
+class MyEmitter extends EventEmitter {}
 const myEmitter = new MyEmitter()
 
 /**
  * Use yargs to handle arguments
  */
-require('yargs') // eslint-disable-line
+const yargs = require('yargs') // eslint-disable-line
   .command('start', 'start grabbing', (yargs) => {
     yargs.option({
       'url': {
         alias: 'u',
-        describe: 'page to grab'
+        describe: 'Page to grab'
+      },
+      'interval': {
+        alias: 'i',
+        default: 1,
+        describe: 'Interval seconds between shots, increase when suffering from bad network. Shall be larger than 1'
       }
     })
   }, (argv) => {
+    if (argv.interval < 1) {
+      console.log('Interval shall be larger than 1')
+      process.exit()
+    }
     if (argv.url) main(new URL(argv.url))
   })
   .demandOption(['url'], 'Please provide the URL to work with')
   .argv
+const interval = yargs.i
 
 /**
  * Main entry function
@@ -72,11 +82,11 @@ async function main (url) {
       console.log('invisible page loaded!')
       /** Check if page data is ready */
       if (pageData) {
-        /** Seems manga has 'cty=1' in URL */
+        /** Manga seems has 'cty=1' in URL */
         if (url.searchParams.get('cty') === '1') {
           totalPages = pageData.configuration.contents.length
         }
-        /** Seems light novel has 'cty=0 in URL */
+        /** Light novel seems has 'cty=0 in URL */
         if (url.searchParams.get('cty') === '0') {
           for (let key of pageData.configuration.contents) {
             const filename = key.file
@@ -93,7 +103,7 @@ async function main (url) {
           let retry = 0
           while (readyPages.length > 0) {
             console.log(`Cache size: ${readyPages.length}`)
-            await intervalScreenshot(1000, counter, dimension)
+            await intervalScreenshot(interval * 1000, counter, dimension)
             const shiftFileName = readyPages.shift()
             counter++
             console.log(`Done: ${counter}, name: ${shiftFileName}`)
@@ -103,10 +113,10 @@ async function main (url) {
               await browser.close()
               return
             }
-            const waitInterval = 1000
+            const waitInterval = interval * 1000
             await page.waitFor(waitInterval)
             ++retry
-            console.log(`Total retried ${retry} time(s), used ${waitInterval / 1000 * retry} second(s).`)
+            console.log(`Retried ${retry} time(s)`)
             if (retry === 60) {
               console.log(`Retried ${retry} times, aborting...`)
               await browser.close()
