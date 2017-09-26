@@ -97,7 +97,8 @@ async function main (url) {
         /**
          * While counter is smaller then total pages
          * grab the current page until counter reaches
-         * total pages then close browser
+         * total pages then close browser.
+         * Flawed here and there, not perfect.
          */
         while (counter < totalPages) {
           let retry = 0
